@@ -53,7 +53,9 @@ When running this command, the **BTagger** is started. If it doesn't exist in th
 
 ### CSTLemma
     $ lemmatize.py CSTLemma <InputFile> <OutputFile>
-    
+
+---
+
 *TODO*
 
 ### ReLDI
